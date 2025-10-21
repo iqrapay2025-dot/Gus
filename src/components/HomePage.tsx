@@ -155,7 +155,7 @@ export const HomePage = ({ onNavigate }: HomePageProps) => {
                         </p>
                         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
                           <a
-                            href="https://wa.me/2348066830622"
+                            href="https://chat.whatsapp.com/J5EUdlzgraF20W6PxEVjKo?mode=ems_copy_c"
                             target="_blank"
                             rel="noopener noreferrer"
                           >
@@ -405,7 +405,7 @@ export const HomePage = ({ onNavigate }: HomePageProps) => {
               {t.cta.subtitle}
             </p>
             <a
-              href="https://wa.me/2348066830622"
+              href="https://chat.whatsapp.com/J5EUdlzgraF20W6PxEVjKo?mode=ems_copy_c"
               target="_blank"
               rel="noopener noreferrer"
             >

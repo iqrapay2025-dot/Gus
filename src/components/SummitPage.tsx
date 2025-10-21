@@ -462,7 +462,7 @@ export const SummitPage = () => {
               Secure your spot at the GUS Muslimah Summit 1.0 and be part of this transformative experience
             </p>
             <a
-              href="https://wa.me/2348066830622"
+              href="https://chat.whatsapp.com/J5EUdlzgraF20W6PxEVjKo?mode=ems_copy_c"
               target="_blank"
               rel="noopener noreferrer"
             >
