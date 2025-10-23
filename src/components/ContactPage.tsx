@@ -18,8 +18,8 @@ export const ContactPage = () => {
     {
       icon: Mail,
       title: t.contact.email,
-      content: 'info@gussisters.org',
-      link: 'mailto:info@gussisters.org',
+      content: 'globalunitedsisters2025@gmail.com',
+      link: 'mailto:globalunitedsisters2025@gmail.com',
       color: 'from-[#FF4D00] to-[#e64400]',
     },
     {

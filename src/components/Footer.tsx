@@ -66,11 +66,11 @@ export const Footer = () => {
                 </div>
                 <span>+234 806 683 0622</span>
               </a>
-              <a href="mailto:info@gussisters.org" className="flex items-center gap-3 text-gray-300 hover:text-[#FF4D00] transition-all duration-300 group">
+              <a href="mailto:globalunitedsisters2025@gmail.com" className="flex items-center gap-3 text-gray-300 hover:text-[#FF4D00] transition-all duration-300 group">
                 <div className="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center group-hover:bg-[#FF4D00]/20 transition-all">
                   <Mail className="w-4 h-4" />
                 </div>
-                <span>info@gussisters.org</span>
+                <span>globalunitedsisters2025@gmail.com</span>
               </a>
               <a 
                 href="https://wa.me/2348066830622" 
